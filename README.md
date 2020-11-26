@@ -4,6 +4,6 @@
 
 ## datasets - simulation
 
-Going through a [Jupyter Notebook](https://github.com/E6985/fda-datasets/blob/main/fda-datasets-simulation.ipynb) - where to find datasets - create datasets - overview of resources [
+Going through a [Jupyter Notebook](https://github.com/E6985/fda-datasets-simulation/blob/main/datasets-simulation.ipynb) - where to find datasets - create datasets - overview of resources [
 [...] I. McLoughlin, "Introduction to datasets," GMIT, October 2020.
 ]
